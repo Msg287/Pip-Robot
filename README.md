@@ -21,13 +21,11 @@ I wanted to turn the parts in an ELEGOO Uno R3 Super Starter Kit into a robot wi
 Pip scans a programmed pattern; it does not track or identify people. The sleep behavior is a software interaction mode, not microcontroller low-power sleep.
 
 ### Distance game
-![Pip playing the distance game](images/pip-game.jpeg)
-
+<img src="images/pip-game.jpeg" alt="Pip playing the distance game" width="400">
 Pip displays the target distance, measured distance, and time remaining.
 
 ### Personal space reaction
-![Pip displaying its personal space reaction](images/pip-personal-space.jpeg)
-
+<img src="images/pip-personal-space.jpeg" alt="Pip displaying its personal space reaction" width="400">
 When an object gets closer than 10 cm, Pip shows surprised eyes and says “Personal space!”
 
 ## Play the distance game

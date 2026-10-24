@@ -1,19 +1,11 @@
 Pip Robot Images
-
 This folder contains photos documenting the development, hardware setup, and interactive features of Pip, my Arduino-based robot.
 
-Robot Features
-
-pip-front.jpeg: Pip's default display, showing its eyes and inviting the user to interact with it.
-
-pip-game-prompt.jpeg: The LCD displaying instructions for starting the distance-matching game.
-
-pip-game.jpeg: Pip running the distance game, displaying the target distance, measured distance, and remaining time.
-
-pip-personal-space.jpeg: Pip reacting to an object detected within 10 cm by displaying a personal space warning.
-
+Interactive Features
+- pip-front.jpeg: Pip's welcome display, showing its eyes and inviting users to interact.
+- pip-game-prompt.jpeg: LCD instructions for starting the distance-matching game.
+- pip-game.jpeg: Distance game in progress, displaying the target distance, measured distance, and remaining time.
+- pip-personal-space.jpeg: Pip's reaction when an object is detected within 10 cm, displaying a personal space warning.
 Hardware and Development
-
-pip-lcd-test.jpeg: Initial testing of the LCD display connected to the Arduino before assembling the robot.
-
-pip-wiring.jpeg: Internal hardware setup showing the Arduino, breadboard, wiring connections, power components, and servo-mounted ultrasonic sensor.
+- pip-lcd-test.jpeg: Initial testing of the LCD display and Arduino connections before assembling the robot.
+- pip-wiring.jpeg: Internal hardware setup showing the Arduino, breadboard, wiring connections, power components, and servo-mounted ultrasonic sensor.
